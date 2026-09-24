@@ -4,7 +4,9 @@ Willkommen im Hirtenweg Lab, einem inoffiziellen GitHub-Bereich für technische 
 
 Hier werden digitale Projekte entwickelt, getestet, dokumentiert und geteilt, die den Schulalltag, das Lernen, die Barrierefreiheit, die Infrastruktur und kreative Experimente unterstützen.
 
-## Projekte
+Vorerst sind die Repositories auf *privat* gestellt. Bei Interesse zu einem Repository: Gerne melden.
+
+## Projektehttps://github.com/towade?tab=repositories
 
 ### Schulalltag und Informationsbildschirme
 
