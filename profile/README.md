@@ -1,71 +1,71 @@
 # Hirtenweg Lab
 
-Welcome to **Hirtenweg Lab**, an unofficial GitHub space for technical projects, experiments, tools, and ideas connected to **Schule Hirtenweg**.
+Willkommen im **Hirtenweg Lab**, einem inoffiziellen GitHub-Bereich für technische Projekte, Experimente, Werkzeuge und Ideen rund um die **Schule Hirtenweg**.
 
-This organization is intended as a place to build, test, document, and share digital projects that support everyday school life, learning, accessibility, infrastructure, and creative experimentation.
+Diese Organisation ist als Ort gedacht, an dem digitale Projekte entwickelt, getestet, dokumentiert und geteilt werden können, die den Schulalltag, das Lernen, Barrierefreiheit, Infrastruktur und kreative Experimente unterstützen.
 
-## What you may find here
+## Was du hier finden kannst
 
-Projects in Hirtenweg Lab may include:
+Projekte im Hirtenweg Lab können zum Beispiel sein:
 
-- school-related web tools and utilities
-- scripts for administration and infrastructure
-- self-hosted services and integrations
-- documentation and technical guides
-- classroom and student projects
-- experiments with open-source software
-- accessibility-related tools
-- prototypes, proof-of-concepts, and internal utilities
+- schulbezogene Webtools und Hilfsprogramme
+- Skripte für Administration und Infrastruktur
+- selbstgehostete Dienste und Integrationen
+- Dokumentationen und technische Anleitungen
+- Unterrichts- und Schülerprojekte
+- Experimente mit Open-Source-Software
+- Werkzeuge mit Bezug zu Barrierefreiheit
+- Prototypen, Machbarkeitsstudien und interne Hilfsprogramme
 
-Some repositories may be public, while others are private and only accessible to selected contributors.
+Einige Repositories können öffentlich sein, andere sind privat und nur für ausgewählte Mitwirkende zugänglich.
 
-## About this organization
+## Über diese Organisation
 
-**Hirtenweg Lab is not the official GitHub presence of Schule Hirtenweg.**
+**Das Hirtenweg Lab ist nicht der offizielle GitHub-Auftritt der Schule Hirtenweg.**
 
-It is an independently maintained project space associated with technical and educational work around the school.
+Es handelt sich um einen unabhängig gepflegten Projektbereich für technische und pädagogische Arbeiten im Umfeld der Schule.
 
-Official information about Schule Hirtenweg should always be obtained through the school's official communication channels and website.
+Offizielle Informationen zur Schule Hirtenweg sollten immer über die offiziellen Kommunikationswege und die Website der Schule bezogen werden.
 
-## Open Source & Collaboration
+## Open Source & Zusammenarbeit
 
-Whenever possible, projects are developed openly and documented in a way that allows others to understand, reuse, or contribute to them.
+Wo immer es sinnvoll ist, werden Projekte offen entwickelt und so dokumentiert, dass andere sie verstehen, weiterverwenden oder sich an ihrer Entwicklung beteiligen können.
 
-Individual repositories may have their own licenses, contribution guidelines, and access restrictions.
+Einzelne Repositories können eigene Lizenzen, Beitragsrichtlinien und Zugriffsbeschränkungen haben.
 
-Please check the respective repository before using or modifying its contents.
+Bitte prüfe daher vor der Nutzung oder Änderung von Inhalten immer die Hinweise im jeweiligen Repository.
 
-## Security & Privacy
+## Sicherheit & Datenschutz
 
-Repositories must not contain:
+Repositories dürfen insbesondere keine folgenden Inhalte enthalten:
 
-- passwords, API keys, tokens, or other credentials
-- personal data of students, staff, or parents
-- confidential school documents
-- internal infrastructure details that could create a security risk
+- Passwörter, API-Schlüssel, Tokens oder andere Zugangsdaten
+- personenbezogene Daten von Schülerinnen und Schülern, Mitarbeitenden oder Eltern
+- vertrauliche Schuldokumente
+- interne Infrastrukturdetails, die ein Sicherheitsrisiko darstellen könnten
 
-Sensitive information belongs in appropriately protected systems, not in a Git repository. Git has a very long memory, unfortunately much better than most humans.
+Sensible Informationen gehören in entsprechend geschützte Systeme und nicht in ein Git-Repository. Git vergisst Dinge leider deutlich zuverlässiger als Menschen.
 
-## Contributions
+## Mitwirken
 
-Contributions, suggestions, bug reports, and improvements are welcome where a repository allows them.
+Beiträge, Vorschläge, Fehlermeldungen und Verbesserungen sind willkommen, sofern das jeweilige Repository dies vorsieht.
 
-Depending on the project, collaboration may take place through:
+Je nach Projekt kann die Zusammenarbeit erfolgen über:
 
 - Issues
 - Pull Requests
 - Discussions
-- direct collaboration with repository members
+- direkte Zusammenarbeit mit Repository-Mitgliedern
 
-## License
+## Lizenz
 
-Licensing is defined individually for each repository.
+Die Lizenzierung wird für jedes Repository einzeln festgelegt.
 
-Unless explicitly stated otherwise, no general license is granted for all projects within Hirtenweg Lab.
+Sofern nicht ausdrücklich anders angegeben, gilt keine allgemeine Lizenz für sämtliche Projekte innerhalb des Hirtenweg Lab.
 
 ---
 
 **Hirtenweg Lab**  
-*Build. Test. Learn. Improve.*
+*Bauen. Testen. Lernen. Verbessern.*
 
-Unofficial technical project space connected to Schule Hirtenweg.
+Inoffizieller technischer Projektbereich rund um die Schule Hirtenweg.
