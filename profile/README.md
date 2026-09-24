@@ -12,7 +12,7 @@ Hier werden digitale Projekte entwickelt, getestet, dokumentiert und geteilt, di
 |---|---|---|
 | `schulboard` | Webanwendung für digitale Schulboards mit Spaltenansicht, PDF-Vorschauen und einer Verwaltung per Drag-and-drop | Node.js, Express, EJS |
 | `busabfahrtsmonitor` | Anzeige und Verwaltung der täglichen Busabfahrten | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
-| `motto` | „Motto der Woche“: wöchentlich zufällig gezogenes Motto für einen Infobildschirm, optional mit Foto und Vertonung, mit eigenem Adminbereich | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
+| `motto` | „Motto der Woche“: wöchentlich zufällig gezogenes Motto für einen Infobildschirm, optional mit Foto und Vertonung um das Kollegium zu motivieren, mit eigenem Adminbereich | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
 
 ### Lernen und Spiel
 
@@ -25,7 +25,7 @@ Hier werden digitale Projekte entwickelt, getestet, dokumentiert und geteilt, di
 
 | Repository | Beschreibung | Technik |
 |---|---|---|
-| `solartankstelle` | Monitoring der Photovoltaikanlage mit Home Assistant und GoodWe-Anbindung, CSV-Export-Dienst und Kiosk-Dashboard | Python, Home Assistant |
+| `solartankstelle` | Monitoring der Photovoltaikanlage mit Home Assistant und GoodWe-Anbindung, CSV-Export-Dienst und Kiosk-Dashboard zur Einbindung in IServ | Python, Home Assistant |
 
 Die meisten Repositories sind derzeit privat und nur für ausgewählte Mitwirkende zugänglich. Weitere Projekte kommen nach und nach hinzu.
 
@@ -48,7 +48,7 @@ Offizielle Informationen zur Schule Hirtenweg sollten immer über die offizielle
 Repositories dürfen insbesondere folgende Inhalte nicht enthalten:
 
 - Passwörter, API-Schlüssel, Tokens oder andere Zugangsdaten
-- personenbezogene Daten von Schülerinnen und Schülern, Mitarbeitenden oder Eltern
+- personenbezogene Daten von Schüler:innen, Mitarbeitenden oder Eltern
 - vertrauliche Schuldokumente
 - interne Infrastrukturdetails, die ein Sicherheitsrisiko darstellen könnten
 
@@ -64,5 +64,7 @@ Die Lizenzierung wird für jedes Repository einzeln festgelegt. Sofern nicht aus
 
 ---
 
-**Hirtenweg Lab** · Bauen. Testen. Lernen. Verbessern.
+**Hirtenweg Lab** ·
+*Build. Test. Learn. Improve.*
+
 Inoffizieller technischer Projektbereich rund um die Schule Hirtenweg.
