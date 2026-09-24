@@ -1,2 +1,2 @@
 # .github
-Oganization profile and community files for Hirtenweg Lab.
+Organisationsprofil und Community-Dateien für das Hirtenweg Lab.
