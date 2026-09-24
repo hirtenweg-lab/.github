@@ -6,7 +6,7 @@ Hier werden digitale Projekte entwickelt, getestet, dokumentiert und geteilt, di
 
 Vorerst sind die Repositories auf *privat* gestellt. Bei Interesse zu einem Repository: Gerne melden.
 
-## Projektehttps://github.com/towade?tab=repositories
+## Projekte
 
 ### Schulalltag und Informationsbildschirme
 
