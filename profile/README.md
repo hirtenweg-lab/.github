@@ -62,6 +62,12 @@ Beiträge, Vorschläge, Fehlermeldungen und Verbesserungen sind willkommen, sofe
 
 Die Lizenzierung wird für jedes Repository einzeln festgelegt. Sofern nicht ausdrücklich anders angegeben, gilt keine allgemeine Lizenz für sämtliche Projekte innerhalb des Hirtenweg Lab.
 
+## Weitere Ressourcen
+
+Eine Sammlung interessanter externer Projekte und Werkzeuge findest du hier:
+
+👉 [Open Source für Schule](open-source-fuer-schule.md)
+
 ---
 
 **Hirtenweg Lab** ·
