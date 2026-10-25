@@ -13,7 +13,7 @@ Vorerst sind die Repositories auf *privat* gestellt. Bei Interesse zu einem Repo
 | Repository | Beschreibung | Technik |
 |---|---|---|
 | `schulboard` | Webanwendung für digitale Schulboards mit Spaltenansicht, PDF-Vorschauen und einer Verwaltung per Drag-and-drop | Node.js, Express, EJS |
-| `busabfahrtsmonitor` | Anzeige und Verwaltung der täglichen Busabfahrten | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
+| `busabfahrtsmonitor` | Anzeige und Verwaltung der täglichen Busabfahrten | PHP 8.4, nginx, MySQL 8.4, Docker Compose |
 | `motto` | „Motto der Woche“: wöchentlich zufällig gezogenes Motto für einen Infobildschirm, optional mit Foto und Vertonung um das Kollegium zu motivieren, mit eigenem Adminbereich | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
 
 ### Lernen und Spiel
