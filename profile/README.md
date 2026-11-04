@@ -16,6 +16,12 @@ Vorerst sind die Repositories auf *privat* gestellt. Bei Interesse zu einem Repo
 | `busabfahrtsmonitor` | Anzeige und Verwaltung der täglichen Busabfahrten | PHP 8.4, nginx, MySQL 8.4, Docker Compose |
 | `motto` | „Motto der Woche“: wöchentlich zufällig gezogenes Motto für einen Infobildschirm, optional mit Foto und Vertonung um das Kollegium zu motivieren, mit eigenem Adminbereich | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
 
+### Schulverwaltung
+
+| Repository | Beschreibung | Technik |
+|---|---|---|
+| `fotoerlaubnis` | Verwaltung der Foto-Einverständniserklärungen mit Fotos, CSV-Import mit Abgleich zum Schuljahreswechsel, Suche, Filtern und PDF-Export; mit Rollen für Verwaltung und reinen Lesezugriff | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
+
 ### Lernen und Spiel
 
 | Repository | Beschreibung | Technik |
