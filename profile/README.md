@@ -15,6 +15,7 @@ Vorerst sind die Repositories auf *privat* gestellt. Bei Interesse zu einem Repo
 | `schulboard` | Webanwendung für digitale Schulboards mit Spaltenansicht, PDF-Vorschauen und einer Verwaltung per Drag-and-drop | Node.js, Express, EJS |
 | `busabfahrtsmonitor` | Anzeige und Verwaltung der täglichen Busabfahrten | PHP 8.4, nginx, MySQL 8.4, Docker Compose |
 | `motto` | „Motto der Woche“: wöchentlich zufällig gezogenes Motto für einen Infobildschirm, optional mit Foto und Vertonung um das Kollegium zu motivieren, mit eigenem Adminbereich | PHP 8.3, nginx, MySQL 8.4, Docker Compose |
+| `infomonitor` | Kiosk-Konfiguration für einen Informationsbildschirm auf einem Raspberry Pi: Vollbildanzeige, nächtliche Updates und Neustart bei Netzausfall, dazu ein abgeschottetes WLAN für eine smarte Steckdose | Raspberry Pi OS, systemd, hostapd, dnsmasq |
 
 ### Schulverwaltung
 
