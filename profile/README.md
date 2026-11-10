@@ -29,6 +29,7 @@ Vorerst sind die Repositories auf *privat* gestellt. Bei Interesse zu einem Repo
 |---|---|---|
 | `notrufsim` | Kindgerechte Web-App zum Üben des Notrufs 112 mit einer KI-gestützten Leitstelle, vollständig selbst gehostet | Next.js, TypeScript, Ollama, Whisper, Piper TTS |
 | `henriette-game` | „Henriette Hirtenweg – Roll & Rool!“: Browser-Spiel im Stil des bekannten Dino-Spiels | Node.js, Express, HTML/JavaScript |
+| `mineHirtenweg` | Luanti-Server mit dem Spiel Mineclonia: die Umgebung der Schule als begehbare Spielwelt aus Geodaten, ohne Kämpfe und mit EDUtest für Lehrkräfte; der Server hält das Repository automatisch aktuell | Luanti, Mineclonia, Lua, systemd, Python |
 
 ### Energie und Monitoring
 
