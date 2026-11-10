@@ -3,6 +3,13 @@
 Alle nennenswerten Änderungen am Organisationsprofil werden hier dokumentiert.
 Format angelehnt an [Keep a Changelog](https://keepachangelog.com/de/1.1.0/).
 
+## [2026-11-10]
+
+### Added
+
+- Profil: neues Repository `mineHirtenweg` in der Kategorie „Lernen und Spiel“
+  ergänzt.
+
 ## [2026-11-09]
 
 ### Added
